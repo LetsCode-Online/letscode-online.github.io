@@ -1,0 +1,1 @@
+web: node public/src/app.js
